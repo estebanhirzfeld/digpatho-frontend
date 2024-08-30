@@ -1,7 +1,10 @@
 {
-    "workbench.colorCustomizations": {
-        "activityBar.background": "#551626",
-        "titleBar.activeBackground": "#771F36",
-        "titleBar.activeForeground": "#FEFBFC"
-    }
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#551626",
+    "titleBar.activeBackground": "#771F36",
+    "titleBar.activeForeground": "#FEFBFC"
+  },
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": true
 }
